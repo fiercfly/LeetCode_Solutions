@@ -1,42 +1,31 @@
 class Solution {
 public:
-    void generator(int k, int sum, vector<int>& nums, vector<vector<int>>& ans, vector<int>temp, int sm) {
-        if(sm == sum){
-            ans.push_back(temp);
-            return;
-        }
-        if(k == nums.size() || sm > sum){
-            return;
-        }
-
-        for(int i=k; i<nums.size(); i++){
-            if(i-1>=k && nums[i]== nums[i-1]){
-                continue;
+    void generate(vector<vector<int>> &ans, vector<int> vct, int sum, int sm, int i, vector<int> temp){
+        if(sm>= sum){
+            if(sm== sum){
+                ans.push_back(temp);
             }
-            temp.push_back(nums[i]);
-            generator(i+1, sum, nums, ans,temp, sm+nums[i]);
-            temp.pop_back();
+            return;
+        }
+
+        if(i>= vct.size()){
+            return;
         }
         
-        //Second way to recurse
-        // Include nums[k] in the current combination
-
-        // temp.push_back(nums[k]);
-        // generator(k + 1, sum, nums, ans, temp, sm + nums[k]);
+        temp.push_back(vct[i]);
+        generate(ans, vct,sum, sm+ vct[i], i+1, temp);
         
-        // // Exclude nums[k] and skip all duplicates of nums[k]
-        
-        // temp.pop_back();
-        // while(k + 1 < nums.size() && nums[k+1]== nums[k]){
-        //     k++;
-        // }
-        // generator(k + 1, sum, nums, ans, temp, sm);
+        // sm=sm-vct[i];
+        while(i+1<vct.size() && vct[i] == vct[i+1]) {
+            i++;
+        }
+        temp.pop_back();
+        generate(ans, vct,sum,sm,i+1, temp);
     }
-
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         vector<vector<int>> ans;
-        sort(candidates.begin(), candidates.end());  // Sort to handle duplicates
-        generator(0, target, candidates, ans, {}, 0);
+        sort(candidates.begin(), candidates.end());
+        generate(ans, candidates, target, 0, 0, {});
         return ans;
     }
 };
