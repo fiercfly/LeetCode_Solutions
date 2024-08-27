@@ -1,19 +1,19 @@
 class Solution {
 public:
-    void generator(vector<vector<int>> &ans, int i, vector<int> nums, vector<int> &temp){
-        ans.push_back(temp);
-        for(int k=i; k<nums.size(); k++){
-            temp.push_back(nums[k]);
-            generator(ans, k+1,nums, temp);
-            temp.pop_back();
-        }
-
-    }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> ans;
-        vector<int> temp;
-        generator(ans, 0, nums, temp);
-
-        return ans;
+        int bits= nums.size();
+       vector<vector<int>> ans;
+    //    int ttl= pow(2,nums);
+    unsigned int ttl = pow(2, bits); 
+       for(int cnt=0; cnt<ttl; cnt++){
+        vector<int> vct;
+        for(int i=0; i<bits; i++){
+            if(cnt&(1<<i)){
+                vct.push_back(nums[i]);
+            }
+        }
+        ans.push_back(vct);
+       } 
+       return ans;
     }
 };
