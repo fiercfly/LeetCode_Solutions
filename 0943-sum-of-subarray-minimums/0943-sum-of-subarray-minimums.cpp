@@ -38,11 +38,6 @@ public:
             st.push(i);
         }
 
-        for(int i: nsml){
-            cout<<i<<endl;
-        }for(int i: psml){
-            cout<<i<<endl;
-        }
         for(int i=0; i<arr.size(); i++){
         ans = (ans + (long long)arr[i] * (i - psml[i]) * (nsml[i] - i) % MOD) % MOD;
         }
