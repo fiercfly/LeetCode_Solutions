@@ -6,6 +6,7 @@ public:
         vector<int> psml(arr.size());
         vector<int> nsml(arr.size());
         stack<int> st;
+
         //psml ko fill crow
         for(int i=0; i<arr.size(); i++){
             while(!st.empty()&& arr[i]<=arr[st.top()]){
@@ -39,7 +40,7 @@ public:
         }
 
         for(int i=0; i<arr.size(); i++){
-        ans = (ans + (long long)arr[i] * (i - psml[i]) * (nsml[i] - i) % MOD) % MOD;
+        ans = (ans +(long long)arr[i]*(i- psml[i])*(nsml[i] - i) % MOD) % MOD;
         }
 
         return ans;
