@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0943-sum-of-subarray-minimums](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 ## Stack
 |  |
@@ -25,4 +26,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
+## Math
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+## String
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
