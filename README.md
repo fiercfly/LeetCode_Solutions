@@ -7,18 +7,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0735-asteroid-collision](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0943-sum-of-subarray-minimums](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 ## Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -27,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0943-sum-of-subarray-minimums](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2227-sum-of-subarray-ranges) |
@@ -80,4 +84,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0214-shortest-palindrome) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
