@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -88,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
