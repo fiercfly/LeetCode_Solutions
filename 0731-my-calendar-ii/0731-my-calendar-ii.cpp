@@ -25,7 +25,6 @@ public:
         return true;
     }
 
-    // checking if sub-interval get overlapped more than single time
     bool check(int x, int y){
         int overlapp_cnt = 0;
 
