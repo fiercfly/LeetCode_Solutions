@@ -31,7 +31,7 @@ public:
         for(int i=0;i<vp.size();i++){
             int a = vp[i].first, b = vp[i].second;
 
-            if((x<b) and (y>a)){ // strict condition for overlapping
+            if((x<b) and (y>a)){ 
                 overlapp_cnt++;
                 if(overlapp_cnt == 2){
                     return true;
