@@ -4,19 +4,16 @@ class MyCalendarTwo {
 public:
     vector<pair<int,int>> vp;
     MyCalendarTwo() {
-        // Don't Do anything
-    }
+        }
     
     bool book(int x, int y) {
         for(auto &val:vp){
             int a = val.first, b = val.second;
 
             if((x<b) and (y>a)){
-                // calculate sub-interval
-                int new_x = max(a,x);
+               int new_x = max(a,x);
                 int new_y = min(b,y);
 
-                // checking if the sub-interval is valid or not
                 if(check(new_x, new_y)){
                     return false;
                 }
