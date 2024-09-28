@@ -1,50 +1,69 @@
 public class Solution {
-    public int MaxDistance(int[][] grid) {
-        int n = grid.Length;
-        int[,] distance = new int[n, n]; // To store distances
-        Queue<(int, int)> q = new Queue<(int, int)>();
-        
-        // Initialize BFS queue and distance array
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 1) {
-                    q.Enqueue((i, j)); // All land cells
-                    distance[i, j] = 0; // Distance is 0 for land cells
-                } else {
-                    distance[i, j] = int.MaxValue; // Initially set water cells to max distance
-                }
-            }
-        }
-        
-        // If no water or no land exists
-        if (q.Count == 0 || q.Count == n * n) return -1;
-        
-        // 4 possible directions for neighbors (up, down, left, right)
-        int[] rows = {-1, 0, 1, 0};
-        int[] cols = {0, 1, 0, -1};
-        int maxDistance = 0;
-        
-        // BFS traversal
-        while (q.Count > 0) {
-            var (currI, currJ) = q.Dequeue();
-            
-            // Traverse all 4 directions
-            for (int d = 0; d < 4; d++) {
-                int neighborI = currI + rows[d];
-                int neighborJ = currJ + cols[d];
-                
-                // Ensure the neighbor is within grid bounds
-                if (neighborI >= 0 && neighborI < n && neighborJ >= 0 && neighborJ < n) {
-                    // Only update if we find a shorter distance
-                    if (distance[neighborI, neighborJ] > distance[currI, currJ] + 1) {
-                        distance[neighborI, neighborJ] = distance[currI, currJ] + 1;
-                        maxDistance = Math.Max(maxDistance, distance[neighborI, neighborJ]);
-                        q.Enqueue((neighborI, neighborJ)); // Enqueue this water cell to process its neighbors
+
+public int MaxDistance(int[][] grid) {
+
+int[,] distance = new int[grid.Length, grid[0].Length];
+
+Queue<(int x, int y)> q = new Queue<(int x, int y)>();
+
+int ans = 0;
+
+for(int i = 0; i < grid.Length; i++) {
+
+for(int j = 0; j < grid[0].Length; j++) {
+
+if (grid[i][j] == 0) distance[i,j] = int.MaxValue;
+
+else {
+
+distance[i,j] = 0;
+
+q.Enqueue((i,j));
+
+}
+
+}
+
+}
+
+if (q.Count == 0 || q.Count == grid.Length * grid[0].Length) return -1;
+
+int[] rows = {-1, 0, 1, 0};
+
+int[] cols = {0, 1, 0, -1};
+
+ans = 0;
+
+while (q.Count > 0) {
+
+var curr = q.Dequeue();
+
+int currI = curr.x;
+
+int currJ = curr.y;
+
+for (int i = 0; i < 4; i++) {
+
+int neighborI = currI + rows[i];
+
+int neighborJ = currJ + cols[i];
+
+if (neighborI >= 0 && neighborI < grid.Length && neighborJ >= 0 && neighborJ < grid[0].Length ) {
+
+if (distance[neighborI, neighborJ] > distance[currI, currJ] + 1) {
+                        distance[neighborI, neighborJ]= distance[currI, currJ]+ 1;
+                        ans= Math.Max(ans,distance[neighborI,neighborJ]);
+                        q.Enqueue((neighborI,neighborJ));
                     }
-                }
-            }
-        }
-        
-        return maxDistance;
-    }
+
+}
+
+}
+
+}
+
+return ans;
+
+}
+
 }
