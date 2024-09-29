@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0432-all-oone-data-structure) |
 | [2755-extra-characters-in-a-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Counting
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0859-design-circular-deque) |
@@ -151,9 +153,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0859-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
