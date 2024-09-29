@@ -1,39 +1,35 @@
 class AllOne {
 public:
-    unordered_map<string,int> count;  // Stores the count of each key
-    set<pair<int,string>> se;         // Sorted set to keep counts and keys
-    
+    unordered_map<string, int> freq;
+    set<pair<int, string>> set;
     AllOne() {
-        count.clear();  // Initialize the count map
+        
     }
-
-    // Increment the count of the key
+    
     void inc(string key) {
-        int n = count[key];   // Get current count
-        count[key]++;         // Increment the count
-        se.erase({n, key});   // Remove the old pair from set
-        se.insert({n+1, key}); // Insert the new pair with updated count
+        set.erase({freq[key], key});
+        freq[key]++;
+        set.insert({freq[key], key});
     }
-
-    // Decrement the count of the key
+    
     void dec(string key) {
-        int n = count[key];   // Get current count
-        count[key]--;         // Decrement the count
-        se.erase({n, key});   // Remove the old pair from set
-        if (count[key] > 0) se.insert({n-1, key});  // If count > 0, insert updated pair
-        else count.erase(key);  // If count reaches 0, remove the key from map
+        set.erase({freq[key], key});
+        freq[key]--;
+        if(freq[key] != 0)
+            set.insert({freq[key], key});
     }
-
-    // Get the key with the maximum count
+    
     string getMaxKey() {
-        if (!se.empty()) return se.rbegin()->second;  // Last element gives the maximum
-        return "";
+        if(set.empty()) return "";
+        auto it = set.end();
+        --(it);
+        return it->second;
     }
-
-    // Get the key with the minimum count
+    
     string getMinKey() {
-        if (!se.empty()) return se.begin()->second;  // First element gives the minimum
-        return "";
+        if(set.empty()) return "";
+        auto it = set.begin();
+        return it->second;
     }
 };
 
