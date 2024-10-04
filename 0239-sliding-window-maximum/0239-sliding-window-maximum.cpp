@@ -1,42 +1,32 @@
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
-        unordered_map<int, int> mp;
+        deque<int> dq;
         vector<int> ans;
-        queue<int> q;
-        int i=0;
-        int mxi= INT_MIN;
-        while(i<k){
-            q.push(nums[i]);
-            mp[nums[i]]++;
-            mxi =max(mxi, nums[i]);
-            i++;
-        }
-        ans.push_back(mxi);
-        while(i<nums.size()){
-            if(q.front() == mxi && mp[mxi]==1){
-                q.push(nums[i]);
-                mp[nums[i]]++;
-                mp[mxi]--;
-                q.pop();
-                
-                mxi= INT_MIN;
-                for(int j= i-k+1; j<=i; j++){
-                    mxi =max(mxi, nums[j]);
-                }
-                ans.push_back(mxi);
+        for(int i=0; i<nums.size(); i++){
+            if(!dq.empty() && dq.front()== i-k){
+                dq.pop_front();
             }
-            else{
-                mp[q.front()]--;
-                mxi= max(mxi, nums[i]);
-                ans.push_back(mxi);
-                q.push(nums[i]);
-                q.pop();
-                mp[nums[i]]++;
+
+            while(!dq.empty() && nums[dq.back()] < nums[i]){
+                dq.pop_back();
             }
-            i++;
+
+            dq.push_back(i);
+
+            if(i>=k-1){
+                ans.push_back(nums[dq.front()]);
+            }
+
         }
         return ans;
-
+        
     }
 };
+
+auto init = [](){ 
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    return 'c';
+}();
