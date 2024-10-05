@@ -4,9 +4,7 @@ public:
         if (s1.length() > s2.length()) return false;
 
         vector<int> s1Count(26, 0), s2Count(26, 0);
-        
-        // Count frequencies of s1 and the first window in s2
-        for (int i = 0; i < s1.length(); ++i) {
+       for (int i = 0; i < s1.length(); ++i) {
             s1Count[s1[i] - 'a']++;
             s2Count[s2[i] - 'a']++;
         }
