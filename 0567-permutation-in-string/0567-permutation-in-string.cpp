@@ -11,15 +11,11 @@ public:
             s2Count[s2[i] - 'a']++;
         }
 
-        // Slide the window over s2
         for (int i = 0; i < s2.length() - s1.length(); ++i) {
             if (s1Count == s2Count) return true;
-            // Update the window
             s2Count[s2[i] - 'a']--;
             s2Count[s2[i + s1.length()] - 'a']++;
         }
-
-        // Check the last window
         return s1Count == s2Count;
     }
 };
