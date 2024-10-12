@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1923-sentence-similarity-iii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2227-sum-of-subarray-ranges](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2755-extra-characters-in-a-string) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0731-my-calendar-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0731-my-calendar-ii) |
 | [1694-make-sum-divisible-by-p](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -207,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
 |  |
@@ -221,12 +225,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Monotonic Queue
 |  |
 | ------- |
