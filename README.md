@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0239-sliding-window-maximum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1694-make-sum-divisible-by-p) |
@@ -209,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -217,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Two Pointers
@@ -231,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Monotonic Queue
