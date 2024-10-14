@@ -73,7 +73,7 @@ public:
             deleteNode(oldNode);
         }
         if(mp.size()== cap){
-            mp.erase(tail->prev->val);
+            mp.erase(tail->prev->key);
             deleteNode(tail->prev);
         }
 
