@@ -1,4 +1,11 @@
 #pragma GCC optimize("Ofast")
+
+auto init = [](){ 
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    return 'c';
+}();
 class LRUCache {
 public:
     //Map will be containing key and value and value will get stored in double linked list
