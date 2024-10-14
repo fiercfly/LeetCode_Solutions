@@ -6,6 +6,7 @@ auto init = [](){
     cout.tie(0);
     return 'c';
 }();
+
 class LRUCache {
 public:
     //Map will be containing key and value and value will get stored in double linked list
