@@ -1,6 +1,8 @@
+#pragma GCC optimize("Ofast")
 class LRUCache {
 public:
-    //doubly linkedlist banayenge:
+    //Map will be containing key and value and value will get stored in double linked list
+    //create doubly linkedlist:
     class node{
         public:
         //key value, 2 pointer: next and prev
@@ -9,17 +11,18 @@ public:
         node *next;
         node *prev;
 
-        //kind of function which will initialise all the key and value
+        //initialise key and value whenever we write node with key and val as argument
         node(int k, int v){
             key= k;
             val= v;
         }
     };
+
     node *head= new node(-1, -1);
     node *tail= new node(-1, -1);
 
     int cap;
-    unordered_map<int, node* > mp; //map me int aur node store krenge
+    unordered_map<int, node* > mp; //store int and node in map
 
     LRUCache(int capacity) {
         cap= capacity;
@@ -50,11 +53,11 @@ public:
             node* resNode= mp[key];
             int res= resNode->val;
 
-            //node delete crow..
+            //node delete..
             mp.erase(key);
             deleteNode(resNode);
 
-            //head k just baad add crow
+            //add just after the head
             addNode(resNode);
             mp[key]= head->next;
 
@@ -66,7 +69,7 @@ public:
     }
     
     void put(int key, int value) {
-        //if already existing in map then remove that node else remove last node(least used)
+        //if already exists in map then remove that node else remove last node(least used)
         if(mp.find(key)!= mp.end()){
             node *oldNode= mp[key];
             mp.erase(key);
