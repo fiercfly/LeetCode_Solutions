@@ -26,7 +26,10 @@ public:
                 left++;
             }
 
+            
+
             ans+= right- left;
+            // cout<<right<<" "<<left<<" "<<right- left<<endl;
             
 
         }
