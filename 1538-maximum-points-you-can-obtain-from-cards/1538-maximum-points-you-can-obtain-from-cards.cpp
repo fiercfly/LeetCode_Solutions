@@ -1,19 +1,27 @@
+
+auto init = [](){ 
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    return 'c';
+}();
+
 class Solution {
 public:
-    int maxScore(vector<int>& cardPoints, int k) {
+    int maxScore(vector<int>& nums, int k) {
+        int ans= 0;
+        int sum= 0;
+        int n= nums.size();
         int left= 0;
-        int maxi= 0;
-        int curr= 0;
         for(int i=0; i<k; i++){
-            curr+= cardPoints[i];
+            sum+= nums[i];
         }
-        maxi= curr;
-        //left k end se remove karo and right end se add karo
+        ans= max(ans, sum);
         for(int i=0; i<k; i++){
-            curr-= cardPoints[k-1-i];
-            curr+= cardPoints[cardPoints.size()-1-i];
-            maxi= max(curr, maxi);
+            sum+= nums[n-i-1];
+            sum-= nums[k-i-1];
+            ans=max(ans, sum);
         }
-        return maxi;
+        return ans;
     }
 };
