@@ -1,51 +1,59 @@
 class Solution {
 public:
-    std::string minWindow(std::string s, std::string t) {
-        if (s.empty() || t.empty() || s.length() < t.length()) {
+    string minWindow(string s, string t) {
+        unordered_map<char, int> mp;
+
+        if(s.length()<t.length()){
             return "";
         }
 
-        std::vector<int> map(128, 0);
-        int count = t.length();
-        int start = 0, end = 0, minLen = INT_MAX, startIndex = 0;
-
-        // Fill the map with frequency of characters in `t`.
-        for (char c : t) {
-            map[c]++;
+        //value map is there..
+        for(char c: t){
+            mp[c]++;
         }
 
-        // Sliding window approach.
-        while (end < s.length()) {
-            // Decrement the character count from the map.
-            if (map[s[end]] > 0) {
-                count--;
+        //since we have to find all the characters in t in our s so...
+        int remain= t.length();
+
+
+        int wdw[2]= {0,INT_MAX};
+
+        int st= 0;
+        for(int end= 0; end<s.length(); end++){
+            char c= s[end];
+            //if we get the char in our map means there is a possibility that t can be in s
+            if(mp.find(c)!= mp.end() && mp[c]>0){
+                remain--;
             }
-            map[s[end]]--;
-            end++;
 
-            // When all characters from `t` are found.
-            while (count == 0) {
-                // Update the minimum window.
-                if (end - start < minLen) {
-                    startIndex = start;
-                    minLen = end - start;
+            mp[c]--;
+
+            //if remain=0 means all the characters of t is in window so do calc..
+
+            if(remain== 0){
+                while(true){
+                    char c= s[st];
+                    if(mp.find(c)!= mp.end() && mp[c]== 0){
+                        //tht char is form our t and has single occurence so cant remove
+                        break;
+                    }
+
+                    mp[c]++;
+                    st++;
                 }
 
-                // Restore the character count for the start of the window.
-                map[s[start]]++;
-                
-                // If restoring this character brings the map value to positive,
-                // it means we need this character again.
-                if (map[s[start]] > 0) {
-                    count++;
+                if(end- st < wdw[1]- wdw[0]){
+                    wdw[0]= st;
+                    wdw[1]= end;
                 }
 
-                // Move the start pointer forward.
-                start++;
+                //start shrinking the window
+
+                mp[s[st]]++;
+                remain++;
+                st++;
             }
         }
-
-        // If no valid window found, return empty string.
-        return minLen == INT_MAX ? "" : s.substr(startIndex, minLen);
+        return wdw[1]>= s.length()? "": s.substr(wdw[0], wdw[1]+1- wdw[0]);
     }
 };
