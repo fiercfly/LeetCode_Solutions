@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1117-as-far-from-land-as-possible](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1117-as-far-from-land-as-possible) |
 | [1256-rank-transform-of-an-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0943-sum-of-subarray-minimums](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1117-as-far-from-land-as-possible](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1117-as-far-from-land-as-possible) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2755-extra-characters-in-a-string) |
 ## Stack
 |  |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0085-maximal-rectangle](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [1117-as-far-from-land-as-possible](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1117-as-far-from-land-as-possible) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Trie
 |  |
 | ------- |
