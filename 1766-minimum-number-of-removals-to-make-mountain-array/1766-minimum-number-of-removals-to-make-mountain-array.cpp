@@ -25,7 +25,6 @@ public:
                 maxMountainLength = max(maxMountainLength, LIS[i] + LDS[i] - 1);
             }
         }
-
         return n - maxMountainLength;
     }
 };
