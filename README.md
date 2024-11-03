@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1304-longest-happy-string) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
