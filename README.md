@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0731-my-calendar-ii) |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0859-design-circular-deque) |
 ## Queue
@@ -318,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0355-design-twitter](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0355-design-twitter) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
