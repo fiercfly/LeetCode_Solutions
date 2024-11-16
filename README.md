@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2755-extra-characters-in-a-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Two Pointers
