@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2755-extra-characters-in-a-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Dynamic Programming
 |  |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1117-as-far-from-land-as-possible](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1117-as-far-from-land-as-possible) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Linked List
 |  |
 | ------- |
@@ -427,4 +429,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
