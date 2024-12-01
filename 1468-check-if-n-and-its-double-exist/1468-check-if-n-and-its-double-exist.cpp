@@ -8,7 +8,7 @@ public:
             double temp=  i/2.0;
             double ele= 2.0*i;
             if(mp.find(ele)!= mp.end() || mp.find(temp)!= mp.end()){
-                cout<<ele/2<<" "<<temp<<" "<<endl;
+                // cout<<ele/2<<" "<<temp<<" "<<endl;
                 return true;
             }
             mp[i]++;
