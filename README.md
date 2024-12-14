@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3427-special-array-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3427-special-array-ii) |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0729-my-calendar-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0731-my-calendar-ii) |
+| [2868-continuous-subarrays](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2868-continuous-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -341,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2868-continuous-subarrays](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -383,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2868-continuous-subarrays](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -425,11 +429,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2692-take-gifts-from-the-richest-pile](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2868-continuous-subarrays](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2868-continuous-subarrays) |
 ## Data Stream
 |  |
 | ------- |
