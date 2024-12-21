@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
