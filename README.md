@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Greedy
 |  |
 | ------- |
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1117-as-far-from-land-as-possible](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1117-as-far-from-land-as-possible) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Linked List
