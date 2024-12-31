@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0386-lexicographical-numbers) |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -387,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1117-as-far-from-land-as-possible](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1117-as-far-from-land-as-possible) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
