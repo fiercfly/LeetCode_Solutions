@@ -13,6 +13,7 @@ public:
             for (int j = i + 1; j < n; ++j) {
                 if (isPrefixAndSuffix(words[i], words[j])) {
                     ++count;
+                    
                 }
             }
         }
