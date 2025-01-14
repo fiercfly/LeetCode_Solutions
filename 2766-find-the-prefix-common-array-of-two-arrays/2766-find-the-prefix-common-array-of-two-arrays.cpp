@@ -13,9 +13,6 @@ public:
             
             mp[B[i]]++;
             if(mp[B[i]]==2)totalCommon++;
-
-            
-            
             
             ans[i]= totalCommon;
         }
