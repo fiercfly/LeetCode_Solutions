@@ -1,32 +1,49 @@
 class Solution {
 public:
     bool doesValidArrayExist(vector<int>& arr) {
-        int n= arr.size();
+        // int n= arr.size();
 
-        vector<int> org(n, 0);
+        // vector<int> org(n, 0);
 
-        org[0]= 1;
+        // org[0]= 1;
 
-        for(int i=0; i<n-1; i++){
-            if(arr[i] == 1){
-                org[i+1]= !org[i];
-            }
-            else{
-                org[i+1]= org[i];
-            }
+        // for(int i=0; i<n-1; i++){
+        //     if(arr[i] == 1){
+        //         org[i+1]= !org[i];
+        //     }
+        //     else{
+        //         org[i+1]= org[i];
+        //     }
+        // }
+
+        // if(arr[n-1]== 1){
+        //     return org[n-1] == !org[0];
+        // }
+        // else{
+        //     return org[n-1] == org[0];
+        // }
+
+        int ans= 0;
+        for(int i: arr){
+            ans= ans^i;
         }
 
-        if(arr[n-1]== 1){
-            return org[n-1] == !org[0];
-        }
-        else{
-            return org[n-1] == org[0];
-        }
-
-        // 1 0 1
-        
+        return ans==0;     
     }
 };
+
+/*
+    A Valid Derived is created in this manner :-
+    arr[i]^ arr[i+1] , arr[i+1]^ arr[i+2] , arr[i+2]^ arr[i]
+
+    what if we take xor of all the elts:
+    arr[i]^ arr[i] ^ arr[i+1]^ arr[i+1] ^ arr[i+2]^ arr[i+2] ==== 0
+
+    So on xoring whole array if we get 0 then its fine else drived is corrupted
+
+
+
+*/
 
 /*
 
