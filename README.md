@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2685-first-completely-painted-row-or-column](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2685-first-completely-painted-row-or-column](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Trie
@@ -371,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2685-first-completely-painted-row-or-column](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
