@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1396-count-servers-that-communicate](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
+| [1396-count-servers-that-communicate](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1117-as-far-from-land-as-possible) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1972-rotating-the-box) |
 | [2145-grid-game](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2145-grid-game) |
@@ -388,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1034-subarrays-with-k-different-integers](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1396-count-servers-that-communicate](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -470,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1117-as-far-from-land-as-possible) |
+| [1396-count-servers-that-communicate](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -668,4 +673,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
+| [1396-count-servers-that-communicate](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
