@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
@@ -470,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
@@ -646,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0547-number-of-provinces](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [2201-valid-arrangement-of-pairs](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3189-find-champion-ii) |
@@ -674,4 +677,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
