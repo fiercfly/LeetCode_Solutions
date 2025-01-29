@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -472,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -650,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1558-course-schedule-iv) |
@@ -679,6 +682,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
