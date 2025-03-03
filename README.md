@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2227-sum-of-subarray-ranges](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2358-number-of-ways-to-split-array) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -617,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1923-sentence-similarity-iii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
