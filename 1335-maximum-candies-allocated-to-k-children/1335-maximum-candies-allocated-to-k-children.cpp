@@ -1,6 +1,7 @@
 class Solution {
 public:
-    int maximumCandies(vector<int>& candies, long long k) {
+ int maximumCandies(vector<int>& candies, long long k) {   
+
         long long left = 1, right = *max_element(candies.begin(), candies.end());
         int result = 0;
 
@@ -22,5 +23,4 @@ public:
         }
 
         return result;
-    }
-};
+    }};
