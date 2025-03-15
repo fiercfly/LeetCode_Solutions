@@ -1,7 +1,8 @@
 class Solution {
 public:
     bool canRob(vector<int>& nums, int mid, int k) {
-        int count = 0, n = nums.size();
+        int count = 0;
+        int n = nums.size();
         for (int i = 0; i < n; i++) {
             if (nums[i] <= mid) {
                 count++;
