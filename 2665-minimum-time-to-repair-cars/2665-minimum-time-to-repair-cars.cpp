@@ -6,7 +6,7 @@ public:
             long c2 = minGiven / r;
             long c = floor(sqrt(c2));
             carsDone += c;
-        }
+        } 
         return carsDone >= cars;
     }
 
