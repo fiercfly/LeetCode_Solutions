@@ -1,5 +1,8 @@
 class Solution {
 public:
+
+    //Graph DP approach
+
     int countPaths(int n, vector<vector<int>>& roads) {
         vector<pair<int,int>> adj[n];
         for(auto &it: roads){
