@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3427-special-array-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3427-special-array-ii) |
+| [3430-count-days-without-meetings](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3483-alternating-groups-ii) |
@@ -614,6 +615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3430-count-days-without-meetings](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3430-count-days-without-meetings) |
 ## Sliding Window
 |  |
 | ------- |
