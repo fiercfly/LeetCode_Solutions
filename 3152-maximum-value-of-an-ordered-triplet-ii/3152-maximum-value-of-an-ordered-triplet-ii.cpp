@@ -5,13 +5,12 @@ public:
         long long res = 0;
         
         for (int i = 0; i < n; i++) {
-            maxi = max(maxi, nums[i]); // Update the max value seen so far
+            maxi = max(maxi, nums[i]);
             if (i >= 2)
-                res = max(res, (long long)diff * nums[i]); // Compute max triplet value
+                res = max(res, (long long)diff * nums[i]); 
             if (i >= 1)
-                diff = max(diff, maxi - nums[i]); // Update max difference
+                diff = max(diff, maxi - nums[i]); 
         }
-        
         return res;
     }
 };
