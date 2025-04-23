@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -440,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
