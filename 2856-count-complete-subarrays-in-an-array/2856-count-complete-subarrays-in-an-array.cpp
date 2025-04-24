@@ -11,42 +11,33 @@ public:
             mp[it]++;
         }
 
-        // cout<<totalDistinct;
-
-        //Sliding window
-        // int i=0;
-        // int j= 1;
-        // unordered_map<int, int> tep;
-        // int dis=0;
-        // while(i<j && j<nums.size()){
-            
-        //     if(mp.find(tep[j]) == mp.end()){
-        //         dis++;
+        // for(int i=0; i<nums.size(); i++){
+        //     unordered_map<int,int> temp;
+        //     int dis= 0;
+        //     for(int j=i; j<nums.size(); j++){
+        //         if(temp.find(nums[j]) == mp.end()){
+        //             dis++;
+        //         }
+        //         temp[nums[j]]++;
+        //         if(dis == totalDistinct){
+        //             ans++;
+        //         }
         //     }
-
-        //     tep[nums[j]]++;
-
-        //     if(dis == totalDistinct){
-        //         ans++;
-        //     }
-
-        //     j++;
-
         // }
 
+        unordered_map<int,int> temp;
+        int left = 0;
+
         for(int i=0; i<nums.size(); i++){
-            unordered_map<int,int> temp;
-            int dis= 0;
-            for(int j=i; j<nums.size(); j++){
-                if(temp.find(nums[j]) == mp.end()){
-                    dis++;
-                }
-                temp[nums[j]]++;
-                if(dis == totalDistinct){
-                    ans++;
-                }
+            temp[nums[i]]++;
+            while(temp.size() == totalDistinct){
+                ans+= nums.size()- i;
+                temp[nums[left]]--;
+                if(temp[nums[left]] == 0)temp.erase(nums[left]);
+                left++;
             }
-        }
+        } 
+
 
         return ans;
     }
