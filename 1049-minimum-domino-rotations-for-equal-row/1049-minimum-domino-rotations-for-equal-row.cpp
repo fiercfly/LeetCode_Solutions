@@ -2,6 +2,9 @@ class Solution {
 public:
 //there can be 4 combinations possible: tops swap, tops no swap, bottms swap and bottoms no swap
 
+//1st approach*********************************
+
+
     // int noSwap(vector<int> tops, vector<int> bottoms, int itr1, int swap){
     //     int swaps= swap;
     //     int n= tops.size();
@@ -44,6 +47,7 @@ public:
     //     else return -1;
     // }
 
+//2nd approach********************************
 
     int minDominoRotations(vector<int>& tops, vector<int>& bottoms) {
         int ans= INT_MAX;
