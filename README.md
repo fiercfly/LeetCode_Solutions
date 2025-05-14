@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Stack
 |  |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3001-apply-operations-to-maximize-score](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## String
 |  |
@@ -307,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3451-string-compression-iii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
@@ -524,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Counting
 |  |
@@ -538,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Binary Search
 |  |
 | ------- |
