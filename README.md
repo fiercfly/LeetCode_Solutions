@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0679-24-game](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0729-my-calendar-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0731-my-calendar-ii) |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0670-maximum-swap) |
+| [0679-24-game](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0867-new-21-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -910,6 +912,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0679-24-game) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
