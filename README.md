@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0075-sort-colors) |
@@ -913,6 +914,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0679-24-game) |
