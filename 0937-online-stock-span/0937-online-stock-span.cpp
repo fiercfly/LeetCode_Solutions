@@ -1,26 +1,18 @@
-
-auto init = [](){ 
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 'c';
-}();
 class StockSpanner {
 public:
-    stack<pair<int, int>> st;
+stack<pair<int, int>> st;
     StockSpanner() {
         
     }
     
     int next(int price) {
-        int span= 1;
-        //agr stack me pehle se koi element h and wo chota h toh remove crow and count crow
-        while(!st.empty() && st.top().first<=price){
-            span= span+ st.top().second;
+        int spam= 1;
+        while(!st.empty() && st.top().first <= price){
+            spam+= st.top().second;
             st.pop();
         }
-        st.push({price, span});
-        return span;
+        st.push({price, spam});
+        return spam;
     }
 };
 
