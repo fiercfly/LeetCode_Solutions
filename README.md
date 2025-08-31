@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0046-permutations) |
@@ -533,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0130-surrounded-regions) |
@@ -569,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -934,6 +937,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0494-target-sum) |
