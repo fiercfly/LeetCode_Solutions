@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3001-apply-operations-to-maximize-score](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3451-string-compression-iii) |
+| [3462-vowels-game-in-a-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3617-find-the-original-typed-string-i) |
@@ -1041,6 +1043,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3462-vowels-game-in-a-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Union Find
 |  |
 | ------- |
@@ -1078,4 +1081,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0826-soup-servings](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0867-new-21-game) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
