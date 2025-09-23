@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
+| [0165-compare-version-numbers](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0165-compare-version-numbers) |
 | [0214-shortest-palindrome](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0402-remove-k-digits](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
@@ -894,6 +895,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0165-compare-version-numbers](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0768-partition-labels) |
