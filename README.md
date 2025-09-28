@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-snakes-and-ladders](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1002-maximum-width-ramp) |
+| [1018-largest-perimeter-triangle](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1034-subarrays-with-k-different-integers](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0679-24-game](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0867-new-21-game) |
+| [1018-largest-perimeter-triangle](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -506,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1018-largest-perimeter-triangle](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1304-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -835,6 +838,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [1018-largest-perimeter-triangle](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
