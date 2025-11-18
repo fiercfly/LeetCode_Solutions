@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0679-24-game](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0729-my-calendar-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
