@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -772,6 +773,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -802,6 +804,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3242-count-elements-with-maximum-frequency](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3583-count-special-triplets](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3583-count-special-triplets) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
