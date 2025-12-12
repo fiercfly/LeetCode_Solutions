@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3427-special-array-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3427-special-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3430-count-days-without-meetings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -392,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3279-alice-and-bob-playing-flower-game](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1015,6 +1018,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3001-apply-operations-to-maximize-score](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3430-count-days-without-meetings](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3430-count-days-without-meetings) |
+| [3433-count-mentions-per-user](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
