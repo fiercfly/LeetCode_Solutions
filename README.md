@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -481,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3606-coupon-code-validator](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
@@ -777,6 +779,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -1020,6 +1023,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3430-count-days-without-meetings](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3430-count-days-without-meetings) |
 | [3433-count-mentions-per-user](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3606-coupon-code-validator](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
