@@ -1,39 +1,61 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
     int maxLevelSum(TreeNode* root) {
-        if (!root) return 0;
+        int level= 1;
+        int maxSum= INT_MIN;
+        int maxSumLevel= -1;
 
-        int maxSum = INT_MIN;
-        int maxLevel = 0;
-        int currentLevel = 1;
+
+        int currNode= 0;
+        int nextNode= 0;
+        int tempSum= 0;
 
         queue<TreeNode*> q;
+
         q.push(root);
+        currNode= 1;
 
-        while (!q.empty()) {
-            int size = q.size(); // Number of nodes in the CURRENT level
-            int currentLevelSum = 0;
+        while(!q.empty()){
+            TreeNode* node = q.front();
+            q.pop();
+            tempSum+= node->val;
+            --currNode;
 
-            // Process ALL nodes at this current level
-            for (int i = 0; i < size; ++i) {
-                TreeNode* node = q.front();
-                q.pop();
 
-                currentLevelSum += node->val;
-
-                if (node->left) q.push(node->left);
-                if (node->right) q.push(node->right);
+            if(node->left){
+                q.push(node->left);
+                nextNode++;
             }
-
-            // After the for-loop, we have the full sum for this level
-            if (currentLevelSum > maxSum) {
-                maxSum = currentLevelSum;
-                maxLevel = currentLevel;
+            if(node->right){
+                q.push(node->right);
+                nextNode++;
             }
-
-            currentLevel++;
+            if(currNode == 0){
+                if(maxSum < tempSum){
+                    maxSum= tempSum;
+                    maxSumLevel= level;
+                }
+                level++;
+                tempSum= 0;
+                currNode= nextNode;
+                nextNode= 0;
+            }
         }
+        return maxSumLevel;
 
-        return maxLevel;
     }
 };
+
+// nodes at level n-1= 2*n-1
+// total nodes at level n= 2^n-1
