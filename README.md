@@ -1186,6 +1186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
+| [0401-binary-watch](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0679-24-game) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -1199,6 +1200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0231-power-of-two](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0401-binary-watch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
