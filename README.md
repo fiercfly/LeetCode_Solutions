@@ -433,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0696-count-binary-substrings](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0868-push-dominoes) |
@@ -1104,6 +1105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
