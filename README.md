@@ -434,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0868-push-dominoes) |
@@ -1014,6 +1015,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0759-set-intersection-size-at-least-two](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0761-special-binary-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1242,6 +1244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Quickselect
 |  |
