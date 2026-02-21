@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0679-24-game) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0867-new-21-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -1206,6 +1207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
