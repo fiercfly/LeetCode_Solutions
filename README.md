@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1972-rotating-the-box) |
+| [1980-find-unique-binary-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2048-build-array-from-permutation) |
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1923-sentence-similarity-iii) |
+| [1980-find-unique-binary-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -777,6 +779,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1612-avoid-flood-in-the-city](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1980-find-unique-binary-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -1217,6 +1220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0679-24-game) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1980-find-unique-binary-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
