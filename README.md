@@ -1239,6 +1239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0693-binary-number-with-alternating-bits](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
