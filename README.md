@@ -671,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3075-maximize-happiness-of-selected-children](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3195-separate-black-and-white-balls](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -892,6 +893,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3427-special-array-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3454-separate-squares-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3454-separate-squares-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3643-zero-array-transformation-ii) |
@@ -1404,8 +1406,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
 |  |
 | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
