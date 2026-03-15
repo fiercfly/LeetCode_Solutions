@@ -394,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1622-fancy-sequence](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -918,6 +919,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1622-fancy-sequence](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2169-simple-bank-system](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2429-design-a-food-rating-system) |
@@ -928,6 +930,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0729-my-calendar-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0731-my-calendar-ii) |
+| [1622-fancy-sequence](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1622-fancy-sequence) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3454-separate-squares-ii) |
 ## Ordered Set
