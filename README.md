@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2906-construct-product-matrix](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
@@ -745,6 +746,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-first-completely-painted-row-or-column](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2906-construct-product-matrix](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -985,6 +987,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2618-maximize-the-minimum-powered-city](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2906-construct-product-matrix](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
