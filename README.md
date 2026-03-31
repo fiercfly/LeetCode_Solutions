@@ -529,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3451-string-compression-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -696,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3195-separate-black-and-white-balls](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3647-zero-array-transformation-iii) |
@@ -715,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-string-matching-in-an-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Hash Function
 |  |
 | ------- |
