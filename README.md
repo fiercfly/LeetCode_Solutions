@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1170-shortest-common-supersequence](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -486,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1304-longest-happy-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1304-longest-happy-string) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
