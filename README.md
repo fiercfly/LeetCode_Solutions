@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2402-meeting-rooms-iii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2429-design-a-food-rating-system) |
+| [2463-minimum-total-distance-traveled](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2465-shifting-letters-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2478-longest-nice-subarray) |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2463-minimum-total-distance-traveled](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2554-minimum-total-distance-traveled](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2562-count-ways-to-build-good-strings) |
 | [2573-find-the-string-with-lcp](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -1132,6 +1134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2402-meeting-rooms-iii) |
+| [2463-minimum-total-distance-traveled](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2554-minimum-total-distance-traveled) |
