@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -462,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
@@ -897,6 +899,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3678-design-task-manager](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3678-design-task-manager) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3827-implement-router](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3863-power-grid-maintenance) |
