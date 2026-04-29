@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3225-maximum-score-from-grid-operations](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3225-maximum-score-from-grid-operations](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -799,6 +801,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2906-construct-product-matrix](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -1053,6 +1056,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3427-special-array-ii) |
