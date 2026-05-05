@@ -1121,6 +1121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0355-design-twitter) |
@@ -1251,6 +1252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0295-find-median-from-data-stream) |
