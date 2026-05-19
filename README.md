@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2540-minimum-common-value](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -912,6 +913,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2429-design-a-food-rating-system](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2540-minimum-common-value](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -1002,6 +1004,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2540-minimum-common-value](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
 | [2586-longest-square-streak-in-an-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -1302,6 +1305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-partition-array-according-to-given-pivot](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2540-minimum-common-value](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
