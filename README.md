@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1340-jump-game-v](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1364-tuple-with-same-product) |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1201,6 +1203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1340-jump-game-v](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
