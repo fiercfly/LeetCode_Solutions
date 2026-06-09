@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3689-maximum-total-subarray-value-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -792,6 +793,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Rolling Hash
