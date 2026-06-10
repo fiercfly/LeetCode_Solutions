@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -794,6 +795,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Rolling Hash
@@ -1095,6 +1097,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1622-fancy-sequence](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1622-fancy-sequence) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3454-separate-squares-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1406,6 +1409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3647-zero-array-transformation-iii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3678-design-task-manager) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3863-power-grid-maintenance](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Queue
 |  |
