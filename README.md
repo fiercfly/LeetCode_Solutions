@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1840-maximum-building-height](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -482,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1622-fancy-sequence](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1840-maximum-building-height](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1249,6 +1251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1840-maximum-building-height](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2126-destroying-asteroids) |
