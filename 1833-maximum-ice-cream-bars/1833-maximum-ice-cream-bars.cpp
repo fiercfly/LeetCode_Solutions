@@ -1,5 +1,7 @@
 constexpr int M = 1e5 + 1;
 int freq[M];
+
+
 class Solution {
 public:
     static int maxIceCream(vector<int>& costs, int coins) {
@@ -19,15 +21,8 @@ public:
             cnt += buy;
             coins -= buy * x;
         }
-        // reset for the next testcase
         for (int x : costs)
             freq[x] = 0;
         return cnt;
     }
 };
-auto init = []() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    return 'c';
-}();
