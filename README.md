@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -1161,6 +1162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Breadth-First Search
 |  |
