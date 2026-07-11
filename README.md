@@ -728,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3863-power-grid-maintenance) |
@@ -1227,6 +1228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2564-most-profitable-path-in-a-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2685-count-the-number-of-complete-components](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1679,6 +1681,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1688,6 +1691,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2685-count-the-number-of-complete-components](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
