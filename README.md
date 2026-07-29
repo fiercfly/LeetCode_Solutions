@@ -523,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3462-vowels-game-in-a-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -639,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3474-lexicographically-smallest-generated-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3606-coupon-code-validator](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3606-coupon-code-validator) |
@@ -1005,6 +1007,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -1048,6 +1051,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3242-count-elements-with-maximum-frequency](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3583-count-special-triplets](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3583-count-special-triplets) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1654,6 +1658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
