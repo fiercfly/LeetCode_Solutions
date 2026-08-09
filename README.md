@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1063-best-sightseeing-pair](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1117-as-far-from-land-as-possible) |
+| [1140-stone-game-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1063-best-sightseeing-pair](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1117-as-far-from-land-as-possible](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1117-as-far-from-land-as-possible) |
+| [1140-stone-game-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -487,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-new-21-game](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0867-new-21-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1370-count-number-of-nice-subarrays](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1168,6 +1171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -1679,6 +1683,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
@@ -1726,4 +1731,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
