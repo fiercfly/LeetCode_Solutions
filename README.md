@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1510-stone-game-iv](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -495,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1510-stone-game-iv](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1622-fancy-sequence](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1684,6 +1686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
 | [3462-vowels-game-in-a-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
@@ -1735,8 +1738,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/fiercfly/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
