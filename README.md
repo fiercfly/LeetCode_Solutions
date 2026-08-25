@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [0679-24-game](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -961,6 +962,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0432-all-oone-data-structure](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1321,6 +1323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [0759-set-intersection-size-at-least-two](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0761-special-binary-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1552,6 +1555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0401-binary-watch) |
+| [0645-set-mismatch](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/fiercfly/LeetCode_Solutions/tree/master/0868-binary-gap) |
