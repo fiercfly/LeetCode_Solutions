@@ -679,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3637-count-number-of-balanced-permutations](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -857,6 +858,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3647-zero-array-transformation-iii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Rolling Hash
@@ -1061,6 +1063,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3678-design-task-manager) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -1095,6 +1098,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3583-count-special-triplets](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3583-count-special-triplets) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
@@ -1603,6 +1607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Divide and Conquer
 |  |
