@@ -313,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3863-power-grid-maintenance) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1256,6 +1257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3903-smallest-stable-index-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Breadth-First Search
 |  |
 | ------- |
