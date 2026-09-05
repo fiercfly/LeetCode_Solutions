@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3863-power-grid-maintenance](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3863-power-grid-maintenance) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1258,6 +1259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3903-smallest-stable-index-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
