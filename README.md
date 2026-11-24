@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3364-minimum-positive-sum-subarray](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3427-special-array-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3427-special-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3430-count-days-without-meetings) |
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3336-water-bottles-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -1452,6 +1454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3483-alternating-groups-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3483-alternating-groups-ii) |
@@ -1626,6 +1629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -1733,6 +1737,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/fiercfly/LeetCode_Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fiercfly/LeetCode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
